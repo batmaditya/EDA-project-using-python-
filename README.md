@@ -1,6 +1,7 @@
 # EDA-project-using-python-
 
 🔍 Data Science Job Market Analysis — Focus on Data Analyst Roles (US)
+
 📌 Project Overview
 This project explores real-world job posting data to uncover trends, opportunities, and insights in the Data Science industry, with a special focus on Data Analyst roles in the US.
 
@@ -12,12 +13,14 @@ What skills are most valuable (in terms of frequency and salary)
 
 How the market is evolving over time
 
+
 🎯 Goals
 Analyze the highest-paying positions and most sought-after skills in the data science field.
 
 Leverage Python to extract insights from real-world job postings datasets.
 
 Empower job-seekers by providing data-backed career guidance.
+
 
 ❓ Questions Answered
 ✅ What are the most in-demand skills for the top 3 most popular data roles?
@@ -27,6 +30,7 @@ Empower job-seekers by providing data-backed career guidance.
 ✅ What is the salary distribution for Data Analyst roles based on required skills?
 
 ✅ What is the most optimal skill to learn as a Data Analyst (i.e., high demand and high pay)?
+
 
 🧪 Methodology
 📍 Dataset
@@ -55,6 +59,7 @@ Analyze which skills correlate with higher-paying Data Analyst roles.
 
 Identify "optimal" skills — those that are high-paying and high-demand.
 
+
 📊 Tools & Libraries Used
 Python
 
@@ -67,6 +72,7 @@ datetime, re for preprocessing
 Jupyter Notebook for iterative exploration
 
 Git for version control
+
 
 💡 Key Insights (Spoiler-Free)
 You’ll find:

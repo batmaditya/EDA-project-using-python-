@@ -1,4 +1,4 @@
-# EDA-project-using-python-
+# Data Science Job Market Analysis (Python, Pandas, Seaborn)-
 
 🔍 Data Science Job Market Analysis — Focus on Data Analyst Roles (US)
 
